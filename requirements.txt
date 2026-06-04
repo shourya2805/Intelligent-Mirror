@@ -1,0 +1,12 @@
+# Intelligent Mirror — Python Dependencies
+# Install with: pip3 install -r requirements.txt
+
+# Core vision libraries
+opencv-python==4.9.0.80
+mediapipe==0.10.9
+
+# Offline LLM (for Stage 4 AI tips)
+llama-cpp-python==0.2.90
+
+# Model download utility (one-time use)
+huggingface_hub==0.23.4
