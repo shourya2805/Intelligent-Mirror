@@ -5,8 +5,8 @@
 opencv-python==4.9.0.80
 mediapipe==0.10.9
 
-# Offline LLM (for Stage 4 AI tips)
+# Offline LLM (for AI tips — Stage 4)
 llama-cpp-python==0.2.90
 
-# Model download utility (one-time use)
+# Model download utility (one-time use to download the .gguf model)
 huggingface_hub==0.23.4
